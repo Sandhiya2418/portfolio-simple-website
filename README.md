@@ -20,7 +20,7 @@ This portfolio highlights my *background, interests, and projects, demonstrating
 - *Google Fonts* for enhanced typography.  
 
 ## 🔗 Live Preview  
-[link]  
+[https://sandhiya2418.github.io/portfolio-simple-website/]  
 
 
 
